@@ -69,7 +69,3 @@ Atividades realizadas:
 ![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
 
 ---
-
-<h2>🚀 &nbsp;GitHub Stats</h2>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Verninii&show_icons=true&theme=dracula)
