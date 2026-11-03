@@ -17,32 +17,7 @@ const lorenzzo = {
   filosofia:    "Código limpo é aquele que o próximo dev agradece.",
 };
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:D4AF37,100:0A192F&height=3" width="100%"/> <!-- ═══════════════════════════ EXPERIÊNCIA ═══════════════════════════ -->
-💼  Trajetória
-🟡 Econverse — Desenvolvedor Front-end
-
-Mar 2026 — Atual
-
-Desenvolvimento e customização de store-fronts VTEX IO para diferentes clientes, em projetos e demandas ongoing
-Componentes reutilizáveis em React com a arquitetura de Blocks do Store Framework
-Consumo de dados via GraphQL para catálogos, vitrines e páginas de produto
-Customização e otimização de fluxos de Checkout, com foco em experiência de compra e conversão
-Gestão de conteúdo pelo CMS da plataforma e estilização responsiva com Sass
-Rotina ágil com Kanban: priorização e entrega contínua
-🔵 DLFTEC — Desenvolvedor Front-end
-
-Nov 2024 — Jun 2025
-
-Landing pages de alta conversão e sites institucionais com React.js e Tailwind CSS
-Arquitetura de componentes modulares que reduziu o tempo de desenvolvimento de novas features
-Definição de padrões de código e fluxo de versionamento com Git/GitHub
-Prototipagem e refinamento de interfaces no Figma, garantindo fidelidade visual
-Interfaces web para microsserviços consumindo APIs RESTful
-<details> <summary><b>⚪ Prefeitura de Jandira — Técnico de Suporte</b> &nbsp;<code>Abr 2022 — Abr 2024</code></summary> <br>
-Montagem, manutenção e diagnóstico de hardware
-Backup, formatação e configuração de sistemas operacionais
-Instalação e configuração de impressoras e periféricos
-Gerenciamento de IPs e manutenção de redes locais
-</details> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:D4AF37,100:0A192F&height=3" width="100%"/> <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
 🛠  Tech Stack
 
 Front-end
@@ -67,4 +42,4 @@ Metodologias
 🤝 Aberto a conversas sobre front-end, e-commerce e novas oportunidades
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:D4AF37,100:0A192F&height=3" width="100%"/> <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 📊  GitHub em números
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Verninii&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=0A192F&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&border_radius=10" alt="GitHub Stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verninii&layout=compact&langs_count=6&locale=pt-br&bg_color=0A192F&title_color=D4AF37&text_color=FFFFFF&border_color=D4AF37&border_radius=10" alt="Top Linguagens"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Verninii&locale=pt_BR&background=0A192F&border=D4AF37&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=8892B0" alt="GitHub Streak"/> </p> <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Verninii&bg_color=0A192F&color=FFFFFF&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&title_color=D4AF37&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" alt="Gráfico de atividade"/> </p> <!-- ═══════════════════════════ FOOTER ═══════════════════════════ --> <p align="center"> <i>“Interfaces são a primeira impressão — faço questão de que seja a melhor.”</i> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A6E,50:12284A,100:0A192F&height=120&section=footer" width="100%"/>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Verninii&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=0A192F&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&border_radius=10" alt="GitHub Stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verninii&layout=compact&langs_count=6&locale=pt-br&bg_color=0A192F&title_color=D4AF37&text_color=FFFFFF&border_color=D4AF37&border_radius=10" alt="Top Linguagens"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Verninii&locale=pt_BR&background=0A192F&border=D4AF37&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=8892B0" alt="GitHub Streak"/> </p> <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Verninii&bg_color=0A192F&color=FFFFFF&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&title_color=D4AF37&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" alt="Gráfico de atividade"/> </p> <!-- ═══════════════════════════ FOOTER ═══════════════════════════ --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A6E,50:12284A,100:0A192F&height=120&section=footer" width="100%"/>
