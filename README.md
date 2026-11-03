@@ -7,7 +7,7 @@ Sou **Desenvolvedor Front-end** com foco na construção de interfaces escaláve
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:D4AF37,100:0A192F&height=3" width="100%"/> <!-- ═══════════════════════════ EXPERIÊNCIA ═══════════════════════════ -->
 <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
-🛠  Tech Stack
+🛠  &nbsp;Tech Stack
 
 Front-end
 
