@@ -1,21 +1,9 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:12284A,100:1E3A6E&height=220&section=header&text=Lorenzzo%20Vernini&fontSize=54&fontColor=D4AF37&fontAlignY=36&desc=Desenvolvedor%20Front-end%20%E2%80%A2%20React%20%E2%80%A2%20VTEX%20IO&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Lorenzzo Vernini — Desenvolvedor Front-end"/> </p> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=D4AF37&center=true&vCenter=true&width=640&lines=Construindo+interfaces+que+convertem;E-commerce+na+VTEX+IO+%7C+React+%2B+GraphQL;C%C3%B3digo+limpo+%26+componentes+reutiliz%C3%A1veis;Do+Figma+ao+deploy+%F0%9F%9A%80" alt="Typing SVG"/> </a> </p> <p align="center"> <a href="https://www.linkedin.com/in/lorenzzo-vernini-7b47a51a3/"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/></a> <a href="mailto:lorenzzo.vernini@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A192F?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Gmail"/></a> <a href="https://github.com/Verninii"><img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub"/></a> <img src="https://komarev.com/ghpvc/?username=Verninii&label=Visitas&color=D4AF37&style=for-the-badge" alt="Visitas ao perfil"/> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:D4AF37,100:0A192F&height=3" width="100%"/> <!-- ═══════════════════════════ SOBRE ═══════════════════════════ -->
-👨🏻‍💻  Sobre mim
+👨🏻‍💻  &nbsp;Sobre mim
 
-Sou Desenvolvedor Front-end e construo interfaces escaláveis, responsivas e pensadas para conversão. Hoje atuo na Econverse, desenvolvendo e customizando e-commerces na plataforma VTEX IO — da vitrine ao checkout.
+Sou **Desenvolvedor Front-end** com foco na construção de interfaces escaláveis, responsivas e orientadas à conversão. Atualmente na **Econverse**, desenvolvo e customizo e-commerces na plataforma **VTEX IO**principalmente e as demais como: **VTEX FASTSTORE**, **SHOPIFY**, **WAKE**, **DECO**, atuando em todas as áreas para diversos clientes. Tenho vivência no ciclo completo de desenvolvimento: da prototipação no **Figma** à componentização em **React**, integração com **GraphQL** e **APIs RESTful** e deploy em produção. Trabalho com metodologias ágeis (**Scrum** e **Kanban**) e priorizo código limpo, componentes reutilizáveis e boas práticas de UX/UI.
+**Formação:** Bacharel em Ciência da Computação — UNIP &nbsp;•&nbsp;**Idiomas:** Inglês técnico (leitura e escrita)
 
-Gosto de participar do ciclo completo: prototipar no Figma, componentizar em React, integrar via GraphQL/REST e colocar no ar. Acredito em código limpo, componentes reutilizáveis e entregas contínuas com métodos ágeis.
-
-javascript
-const lorenzzo = {
-  cargo:        "Desenvolvedor Front-end",
-  atualmente:   "Econverse — e-commerces em VTEX IO",
-  formacao:     "Bacharel em Ciência da Computação — UNIP",
-  certificacao: "AWS Cloud Practitioner",
-  stack:        ["React", "Next.js", "TypeScript", "VTEX IO", "GraphQL", "Tailwind", "Sass"],
-  foco:         ["Componentização", "Performance", "Conversão", "UX/UI"],
-  idiomas:      ["Português", "Inglês (leitura técnica e escrita)"],
-  filosofia:    "Código limpo é aquele que o próximo dev agradece.",
-};
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:D4AF37,100:0A192F&height=3" width="100%"/> <!-- ═══════════════════════════ EXPERIÊNCIA ═══════════════════════════ -->
 <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
 🛠  Tech Stack
