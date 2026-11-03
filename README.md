@@ -23,12 +23,33 @@ Ferramentas, Deploy & Cloud
 
 Metodologias
 
-<p> <img src="https://img.shields.io/badge/Scrum-0A192F?style=for-the-badge&logo=scrumalliance&logoColor=D4AF37"/> <img src="https://img.shields.io/badge/Kanban-0A192F?style=for-the-badge&logo=trello&logoColor=D4AF37"/> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:D4AF37,100:0A192F&height=3" width="100%"/> <!-- ═══════════════════════════ FOCO ═══════════════════════════ -->
-🎯  Agora
-🛒 Construindo e-commerces em VTEX IO na Econverse
-📚 Aprofundando TypeScript, Next.js e performance web
-☁️ Evoluindo em Cloud (AWS)
-🤝 Aberto a conversas sobre front-end, e-commerce e novas oportunidades
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:D4AF37,100:0A192F&height=3" width="100%"/> <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-📊  GitHub em números
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Verninii&show_icons=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=0A192F&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&border_radius=10" alt="GitHub Stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verninii&layout=compact&langs_count=6&locale=pt-br&bg_color=0A192F&title_color=D4AF37&text_color=FFFFFF&border_color=D4AF37&border_radius=10" alt="Top Linguagens"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Verninii&locale=pt_BR&background=0A192F&border=D4AF37&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=8892B0" alt="GitHub Streak"/> </p> <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Verninii&bg_color=0A192F&color=FFFFFF&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&title_color=D4AF37&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" alt="Gráfico de atividade"/> </p> <!-- ═══════════════════════════ FOOTER ═══════════════════════════ --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A6E,50:12284A,100:0A192F&height=120&section=footer" width="100%"/>
+<p>
+  <img src="https://img.shields.io/badge/Scrum-0A192F?style=for-the-badge&logo=scrumalliance&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/Kanban-0A192F?style=for-the-badge&logo=trello&logoColor=D4AF37"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:D4AF37,100:0A192F&height=3" width="100%"/>
+
+<!-- ═══════════════════════════ FOCO ═══════════════════════════ -->
+## 🎯 &nbsp;Agora
+
+- 🛒 Construindo e-commerces em **VTEX IO** na Econverse
+- 📚 Aprofundando **TypeScript, Next.js** e **performance web**
+- ☁️ Evoluindo em **Cloud (AWS)**
+- 🤝 Aberto a conversas sobre **front-end, e-commerce** e novas oportunidades
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:D4AF37,100:0A192F&height=3" width="100%"/>
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## 📊 &nbsp;GitHub em números
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Verninii&locale=pt_BR&background=0A192F&border=D4AF37&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D4AF37&sideLabels=D4AF37&dates=8892B0" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Verninii/Verninii/output/snake.svg" alt="Cobrinha de contribuições"/>
+</p>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A6E,50:12284A,100:0A192F&height=120&section=footer" width="100%"/>
